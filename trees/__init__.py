@@ -1,3 +1,6 @@
+__version__ = "0.1.0"
+__author__ = 'ShiYuan Fan'
+
 class Tree: # This the 'trunk'(base) of all the Fruits and Branches
     """Create a decision tree"""
     def __init__(self, name:str):

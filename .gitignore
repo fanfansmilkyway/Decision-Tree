@@ -1,2 +1,5 @@
 test.py
 __pycache__/
+build/
+FanTree.egg-info/
+dist/
