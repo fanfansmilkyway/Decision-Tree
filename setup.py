@@ -1,8 +1,12 @@
 from setuptools import setup
 
+from pathlib import Path
+this_directory = Path(__file__).parent
+long_description = (this_directory / "README.md").read_text()
+
 setup(
     name='FanTree',
-    version='0.1.0',    
+    version='0.2.0',    
     description='A module about decision tree',
     url='https://github.com/fanfansmilkyway/Decision-Tree',
     author='ShiYuan Fan',

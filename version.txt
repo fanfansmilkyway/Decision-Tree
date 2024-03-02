@@ -1,0 +1,8 @@
+v0.1.0  Date: 2024.2.24
+Basic functions
+Branch, Fruit, tree
+
+v0.2.0  Date: 2024.3.2
+Remove Fruit
+Optimize the tree algorithm, make the simulation faster
+Add Random_Branch
