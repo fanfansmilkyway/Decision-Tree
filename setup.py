@@ -8,7 +8,7 @@ setup(
     author='ShiYuan Fan',
     author_email='fanfansmilkyway@gmail.com',
     license='BSD 2-clause',
-    packages=['trees'],
+    packages=['FanTree'],
     install_requires=[],
 
     classifiers=[
